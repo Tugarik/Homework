@@ -15,4 +15,5 @@ https://tugarik.github.io/Homework/javascript/tip/tip.js
 https://tugarik.github.io/Homework/javascript/leap_year/
 https://tugarik.github.io/Homework/javascript/score/
 https://tugarik.github.io/Homework/javascript/min_of_4/
+https://tugarik.github.io/Homework/javascript/huvisagch/
 
