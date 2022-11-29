@@ -10,3 +10,4 @@ https://tugarik.github.io/Homework/bootstrap_grid_cards/
 https://tugarik.github.io/Homework/bootstrap_navbar/
 
 https://tugarik.github.io/Homework/javascript/js_basic_exercise/
+https://tugarik.github.io/Homework/javascript/leap_year/
