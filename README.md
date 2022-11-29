@@ -14,4 +14,5 @@ https://tugarik.github.io/Homework/javascript/temtseen/temtseen.js
 https://tugarik.github.io/Homework/javascript/tip/tip.js
 https://tugarik.github.io/Homework/javascript/leap_year/
 https://tugarik.github.io/Homework/javascript/score/
+https://tugarik.github.io/Homework/javascript/min_of_4/
 
