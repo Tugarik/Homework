@@ -13,4 +13,5 @@ https://tugarik.github.io/Homework/javascript/js_basic_exercise/
 https://tugarik.github.io/Homework/javascript/temtseen/temtseen.js
 https://tugarik.github.io/Homework/javascript/tip/tip.js
 https://tugarik.github.io/Homework/javascript/leap_year/
+https://tugarik.github.io/Homework/javascript/score/
 
