@@ -4,7 +4,7 @@ let inputNum;
 let a = 1,
     b = 1;
 let c = a + b;
-let strFibo = " " + a + " " + b;
+let strFibo = a + " " + b;
 do {
   inputNum = prompt("Too oruulna uu");
 }
