@@ -10,11 +10,10 @@ do {
 }
 while (Number.isInteger(Number(inputNum)) == false);
 
-while (c < Number(inputNum)) {
-    strFibo += " " + c;
-    a = b;
-    b = c;
-    c = a + b;
+while (c <= Number(inputNum)) {
+  strFibo += " " + c;
+  a = b;
+  b = c;
+  c = a + b;
 }
-
 console.log(strFibo);
