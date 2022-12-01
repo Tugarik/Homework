@@ -1,6 +1,9 @@
 # Homework
 https://tugarik.github.io/Homework/javascript/js_exercise/
 
+https://tugarik.github.io/Homework/javascript/anhnii_too/
+https://tugarik.github.io/Homework/javascript/pyramid/
+https://tugarik.github.io/Homework/javascript/fibonacci_generator/
 https://tugarik.github.io/Homework/javascript/reg_num_validation/
 https://tugarik.github.io/Homework/javascript/phone_validation/
 https://tugarik.github.io/Homework/javascript/js_basic_exercise/
