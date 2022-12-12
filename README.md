@@ -1,6 +1,7 @@
 # Homework
 https://tugarik.github.io/Homework/javascript/js_exercise/
 
+https://tugarik.github.io/Homework/javascript/guess_number_dom/
 https://tugarik.github.io/Homework/javascript/word_count/
 https://tugarik.github.io/Homework/javascript/pascal_triangle/
 https://tugarik.github.io/Homework/javascript/palindrome_check/
