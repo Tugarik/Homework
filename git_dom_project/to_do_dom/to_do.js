@@ -122,6 +122,11 @@ function doAdd() {
     } else {
       doneCurrent.style.display = "block";
     }
+    if (counter == 0) {
+      statusCurrent.style.display = 'none';
+    }  else {
+      statusCurrent.style.display = 'block';
+    }
   });
 
   //create del button
@@ -146,3 +151,4 @@ function doAdd() {
     }
   });
 }
+
